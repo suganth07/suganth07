@@ -1,6 +1,6 @@
 <!-- Banner / GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWR3bWlydnpkbjJrZGFsamZjZGwwMXQ4NmNvMDFsZmdrNjBscGxzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G2cpDFcKzAPMScb0MC/giphy.gif" alt="banner" />
+  <img src="https://tenor.com/e3XPs0nL5i6.gif" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Suganth K</h1>
