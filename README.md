@@ -1,112 +1,98 @@
-<!-- Banner / GIF -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suganth07/suganth07/main/assets/banner/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suganth07/suganth07/main/assets/banner/light.svg">
+  <img alt="Suganth K — AI Engineer and Full-Stack Developer" src="https://raw.githubusercontent.com/suganth07/suganth07/main/assets/banner/light.svg">
+</picture>
+
+<h1 align="center">Hi, I'm Suganth K</h1>
+<p align="center">AI Engineer · Full-Stack Developer · Flutter &amp; Cloud Enthusiast</p>
+
 <p align="center">
-  <img src="https://tenor.com/e3XPs0nL5i6.gif" alt="banner" />
+  Building practical AI products, cloud-native systems, and thoughtful mobile experiences.
 </p>
 
-<h1 align="center">Hi 👋, I'm Suganth K</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | Flutter & Cloud Enthusiast</h3>
-
----
-
-### 🚀 About Me  
-- 🎓 **B.Tech CSE (Artificial Intelligence)** @ Amrita School of AI (2023–2027)  
-- 💡 Passionate about **AI Agents, Cloud Engineering, Flutter Apps & Full-Stack Systems**  
-- 🔭 Currently working on **AI-Enhanced Mobile Apps, Cloud-Native Architectures & Multimodal Systems**  
-- 🧠 Exploring **Blockchain for secure systems**, **RAG pipelines**, and advanced **LLM integrations**  
-- 🤝 Open to collaborations on **AI, Cloud, Full-Stack, and Mobile Development**  
-- 📫 Reach me at **suganthk2005@gmail.com**
-
----
-
-## 🛠️ Tech Stack  
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Frameworks & Tools**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
-![Firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=firebase&logoColor=white)
-
-### **Cloud | AI | Others**
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
-
----
-
-## 📦 Projects  
-
-### 🔹 **Raseed – Financial Literacy Platform**  
-**Flutter | Python | Firebase | Google Wallet**  
-- AI-powered financial chatbot for personalized guidance  
-- Real-time financial insights & investment suggestions  
-- Secure authentication + Google Wallet integration  
-
-### 🔹 **LegalLens – Multimodal Legal Assistant**  
-**Flutter | Python | Google Cloud Document AI | Blockchain | MCP**  
-- Voice-to-voice multilingual assistant for legal document analysis  
-- Backend with Cloud Spanner, AlloyDB & Redis caching  
-- Blockchain-backed document integrity with enterprise-grade IAM security  
-
-### 🔹 **Leo – Full-Stack Web App**  
-**Next.js | Python | Supabase**  
-- Modular frontend & backend architecture  
-- API-driven data management with Supabase  
-- Modern, responsive UI with component-based design  
-
-### 🔹 **SkillSpark – Personalized Learning Roadmap App**  
-**React Native | Express.js | Gemini | YouTube API**  
-- Generates custom learning paths + curated playlists  
-- Gemini-powered intelligent search query optimisation  
-- Persistent progress tracking via AsyncStorage  
-
----
-
-## 🏆 Achievements  
-🏅 **Breakthrough Concept Award – Google Agentic AI Day 2025**  
-➡️ Top student team among **700 finalists**, selected from **9,100+ submissions** and **57,000+ developers**  
-
-🥉 **3rd Place – Gen AI x Gender Technology Hackathon 2024-25**  
-➡️ Built an AI-powered Legal Assistant mobile app  
-
----
-
-## 📜 Certifications  
-- **Breakthrough Concept Award – Google Cloud & Hack2Skill**  
-- **AI & Machine Learning – LearnFlu (AICTE)**  
-
----
-
-## 🌐 Socials  
-<p align="left">
-<a href="https://github.com/suganth07" target="_blank"><img src="https://img.icons8.com/ios-filled/50/github.png" height="35"/></a>
-<a href="https://www.linkedin.com/in/suganth07" target="_blank"><img src="https://img.icons8.com/ios-filled/50/linkedin.png" height="35"/></a>
-<a href="https://instagram.com/suganth07" target="_blank"><img src="https://img.icons8.com/ios-filled/50/instagram-new.png" height="35"/></a>
-</p>
-
----
-
-## 📊 GitHub Activity
+## GitHub Activity
 
 <img width="100%" src="https://streak-stats.demolab.com?user=suganth07&hide_border=true&background=0A101F&ring=10B981&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=7C8AA5&stroke=0A101F" alt="Suganth's GitHub streak" />
 
 <img width="49%" src="https://github-readme-stats-pink-tau-23.vercel.app/api?username=suganth07&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0&ring_color=10B981" alt="Suganth's GitHub statistics" />
 <img width="49%" src="https://github-readme-stats-pink-tau-23.vercel.app/api/top-langs/?username=suganth07&layout=compact&hide_border=true&bg_color=0A101F&title_color=A78BFA&text_color=E2E8F0" alt="Suganth's most-used languages" />
 
----
+## Contribution Snake
 
-<!-- ## 🧮 LeetCode   -->
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/suganth07?theme=dark&ext=contest) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suganth07/suganth07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suganth07/suganth07/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/suganth07/suganth07/output/github-contribution-grid-snake.svg">
+</picture>
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/suganth07" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/__suganth._?igsh=MWg2MjA0eGl1NHAwNw==" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+</p>
+
+## About Me
+
+- B.Tech Computer Science and Engineering (Artificial Intelligence), Amrita School of AI, Coimbatore (2023–2027)
+- Based in Coimbatore, India
+- Interested in AI agents, cloud engineering, Flutter apps, and full-stack systems
+- Currently building, learning, and shipping AI-enhanced mobile and web products
+- Reach me at **suganthk2005@gmail.com**
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0A101F?style=for-the-badge&logo=dart&logoColor=22D3EE)
+![Java](https://img.shields.io/badge/Java-0A101F?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
+![C++](https://img.shields.io/badge/C%2B%2B-0A101F?style=for-the-badge&logo=cplusplus&logoColor=22D3EE)
+![SQL](https://img.shields.io/badge/SQL-0A101F?style=for-the-badge&logo=postgresql&logoColor=10B981)
+
+**Frameworks &amp; Platforms**
+
+![Flutter](https://img.shields.io/badge/Flutter-0A101F?style=for-the-badge&logo=flutter&logoColor=22D3EE)
+![React](https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react&logoColor=22D3EE)
+![React_Native](https://img.shields.io/badge/React_Native-0A101F?style=for-the-badge&logo=react&logoColor=22D3EE)
+![Next.js](https://img.shields.io/badge/Next.js-0A101F?style=for-the-badge&logo=nextdotjs&logoColor=E2E8F0)
+![Node.js](https://img.shields.io/badge/Node.js-0A101F?style=for-the-badge&logo=nodedotjs&logoColor=10B981)
+![Firebase](https://img.shields.io/badge/Firebase-0A101F?style=for-the-badge&logo=firebase&logoColor=F59E0B)
+![Google_Cloud](https://img.shields.io/badge/Google_Cloud-0A101F?style=for-the-badge&logo=googlecloud&logoColor=22D3EE)
+
+## Selected Projects
+
+### Raseed — Financial Literacy Platform
+
+**Flutter · Python · Firebase · Google Wallet**
+
+- AI-powered guidance and investment insights
+- Secure Firebase authentication and real-time financial visualisation
+- Google Wallet integration for a seamless fintech experience
+
+### LegalLens — Multimodal Legal Assistant
+
+**Flutter · Python · MCP · Google Cloud · Blockchain**
+
+- Voice-to-voice multilingual legal document analysis using Document AI and Gemini
+- Knowledge-graph and vector-search architecture with Cloud Spanner, AlloyDB, and Redis/Valkey
+- Enterprise-focused integrity, encryption, and IAM controls
+
+### SkillSpark — Personalised Learning Roadmaps
+
+**React Native · TypeScript · SQLite · Gemini · LangChain · MediaPipe**
+
+- Offline-first learning roadmaps and adaptive content generation
+- Encrypted local storage with engagement signals from MediaPipe Face Landmarker
+
+## Highlights
+
+- **Breakthrough Concept Award**, Google Agentic AI Day — selected among 700 student finalists from 9,100+ submissions
+- **3rd Place**, Gen AI x Gender Technology Hackathon 2024–25
+- **2nd Place**, AI-verse Hackathon for an AI-powered personalised learning platform
+
+## Certification
+
+- Artificial Intelligence and Machine Learning — LearnFlu (AICTE)
