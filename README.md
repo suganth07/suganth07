@@ -99,9 +99,12 @@
 
 ---
 
-<!-- ## 📊 GitHub Stats  
-![Suganth07's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suganth07&theme=react&show_icons=true&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suganth07&theme=react&layout=compact&hide_border=true) -->
+## 📊 GitHub Activity
+
+<img width="100%" src="https://streak-stats.demolab.com?user=suganth07&hide_border=true&background=0A101F&ring=10B981&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=7C8AA5&stroke=0A101F" alt="Suganth's GitHub streak" />
+
+<img width="49%" src="https://github-readme-stats-pink-tau-23.vercel.app/api?username=suganth07&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0&ring_color=10B981" alt="Suganth's GitHub statistics" />
+<img width="49%" src="https://github-readme-stats-pink-tau-23.vercel.app/api/top-langs/?username=suganth07&layout=compact&hide_border=true&bg_color=0A101F&title_color=A78BFA&text_color=E2E8F0" alt="Suganth's most-used languages" />
 
 ---
 
