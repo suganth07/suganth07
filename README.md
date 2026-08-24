@@ -55,30 +55,87 @@
 ![Firebase](https://img.shields.io/badge/Firebase-0A101F?style=for-the-badge&logo=firebase&logoColor=F59E0B)
 ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-0A101F?style=for-the-badge&logo=googlecloud&logoColor=22D3EE)
 
-## Selected Projects
+## Featured Projects
 
-### Raseed — Financial Literacy Platform
+### Raseed
+**AI-Powered Financial Literacy Platform**
 
-**Flutter · Python · Firebase · Google Wallet**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-0A101F?style=flat-square&logo=flutter&logoColor=22D3EE">
+  <img src="https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE">
+  <img src="https://img.shields.io/badge/Firebase-0A101F?style=flat-square&logo=firebase&logoColor=F59E0B">
+  <img src="https://img.shields.io/badge/Google%20Wallet-0A101F?style=flat-square&logo=googlepay&logoColor=22D3EE">
+</p>
 
-- AI-powered guidance and investment insights
-- Secure Firebase authentication and real-time financial visualisation
-- Google Wallet integration for a seamless fintech experience
+A mobile-first financial platform focused on making financial information
+more accessible through AI-powered guidance and real-time insights.
 
-### LegalLens — Multimodal Legal Assistant
+**Key Features**
 
-**Flutter · Python · MCP · Google Cloud · Blockchain**
+- AI-powered financial guidance and investment insights
+- Secure Firebase authentication and real-time data architecture
+- Google Wallet integration
+- Interactive financial visualisation
 
-- Voice-to-voice multilingual legal document analysis using Document AI and Gemini
-- Knowledge-graph and vector-search architecture with Cloud Spanner, AlloyDB, and Redis/Valkey
-- Enterprise-focused integrity, encryption, and IAM controls
+---
 
-### SkillSpark — Personalised Learning Roadmaps
+### LegalLens
+**Multimodal AI Legal Assistant**
 
-**React Native · TypeScript · SQLite · Gemini · LangChain · MediaPipe**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-0A101F?style=flat-square&logo=flutter&logoColor=22D3EE">
+  <img src="https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE">
+  <img src="https://img.shields.io/badge/MCP-0A101F?style=flat-square&logoColor=A78BFA">
+  <img src="https://img.shields.io/badge/Gemini-0A101F?style=flat-square&logo=google&logoColor=A78BFA">
+  <img src="https://img.shields.io/badge/Google%20Cloud-0A101F?style=flat-square&logo=googlecloud&logoColor=22D3EE">
+</p>
 
-- Offline-first learning roadmaps and adaptive content generation
-- Encrypted local storage with engagement signals from MediaPipe Face Landmarker
+A multimodal legal intelligence platform designed to analyse documents,
+answer legal queries, and connect information across complex knowledge sources.
+
+**Key Features**
+
+- Voice-to-voice multilingual legal document analysis
+- Google Document AI and Gemini-powered document understanding
+- Knowledge graph and vector-search architecture
+- Cloud Spanner, AlloyDB and Redis/Valkey
+- Encryption, IAM and data-integrity controls
+
+---
+
+### SkillSpark
+**Personalised AI Learning Platform**
+
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-0A101F?style=flat-square&logo=react&logoColor=22D3EE">
+  <img src="https://img.shields.io/badge/TypeScript-0A101F?style=flat-square&logo=typescript&logoColor=3178C6">
+  <img src="https://img.shields.io/badge/SQLite-0A101F?style=flat-square&logo=sqlite&logoColor=22D3EE">
+  <img src="https://img.shields.io/badge/Gemini-0A101F?style=flat-square&logo=google&logoColor=A78BFA">
+  <img src="https://img.shields.io/badge/LangChain-0A101F?style=flat-square&logoColor=A78BFA">
+  <img src="https://img.shields.io/badge/MediaPipe-0A101F?style=flat-square&logo=google&logoColor=22D3EE">
+</p>
+
+An adaptive learning platform that generates personalised learning paths
+while maintaining an offline-first mobile experience.
+
+**Key Features**
+
+- AI-generated personalised learning roadmaps
+- Adaptive content generation with Gemini and LangChain
+- Offline-first SQLite architecture
+- Encrypted local data storage
+- MediaPipe Face Landmarker engagement signals
+
+---
+
+### More Projects
+
+Continuously experimenting with AI agents, mobile applications,
+cloud infrastructure, and full-stack systems.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE">
+</p>
 
 ## Highlights
 
