@@ -58,73 +58,76 @@
 ## Projects
 
 ### Raseed
-**AI-Powered Financial Literacy Platform**
 
-<img src="https://cdn.simpleicons.org/flutter/22D3EE" width="16"/> Flutter
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/22D3EE" width="16"/> Python
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/firebase/F59E0B" width="16"/> Firebase
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlepay/22D3EE" width="16"/> Google Wallet
+**Financial literacy, but actually useful.**
 
-> A mobile-first financial platform built around AI-powered
-> financial guidance and real-time financial insights.
+<p>
+  <img src="https://cdn.simpleicons.org/flutter/22D3EE" width="18"/>
+  <img src="https://cdn.simpleicons.org/python/22D3EE" width="18"/>
+  <img src="https://cdn.simpleicons.org/firebase/F59E0B" width="18"/>
+  <img src="https://cdn.simpleicons.org/googlepay/22D3EE" width="18"/>
+</p>
 
-`AI` → Financial guidance & investment insights  
-`AUTH` → Secure Firebase authentication  
-`WALLET` → Google Wallet integration  
-`DATA` → Real-time financial visualisation
+Built a mobile-first financial platform that uses AI to make
+financial guidance easier to understand and act on.
+
+**Built around**
+
+`AI guidance` · `investment insights` · `Firebase` · `Google Wallet`
 
 ---
 
 ### LegalLens
-**Multimodal AI Legal Assistant**
 
-<img src="https://cdn.simpleicons.org/flutter/22D3EE" width="16"/> Flutter
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/22D3EE" width="16"/> Python
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/google/A78BFA" width="16"/> Gemini
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlecloud/22D3EE" width="16"/> Google Cloud
+**What if legal documents could actually talk back?**
 
-> A multimodal legal intelligence system combining document
-> understanding, voice interaction, and retrieval.
+<p>
+  <img src="https://cdn.simpleicons.org/flutter/22D3EE" width="18"/>
+  <img src="https://cdn.simpleicons.org/python/22D3EE" width="18"/>
+  <img src="https://cdn.simpleicons.org/google/A78BFA" width="18"/>
+  <img src="https://cdn.simpleicons.org/googlecloud/22D3EE" width="18"/>
+</p>
 
-`VOICE` → Multilingual voice-to-voice analysis  
-`VISION` → Document AI + Gemini  
-`SEARCH` → Knowledge graph + vector search  
-`CLOUD` → Spanner · AlloyDB · Redis/Valkey  
-`SECURITY` → Encryption · IAM · Data integrity
+A multimodal legal assistant built around documents, voice,
+retrieval, and AI — designed to turn complicated legal information
+into something easier to interact with.
+
+**The interesting part**
+
+`Document AI` · `Gemini` · `Voice` · `Knowledge Graphs` · `Vector Search`
 
 ---
 
 ### SkillSpark
-**Personalised AI Learning Platform**
 
-<img src="https://cdn.simpleicons.org/react/22D3EE" width="16"/> React Native
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="16"/> TypeScript
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/sqlite/22D3EE" width="16"/> SQLite
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/google/A78BFA" width="16"/> Gemini
+**A learning roadmap that adapts to you.**
 
-> An adaptive learning platform generating personalised learning
-> paths with an offline-first mobile architecture.
+<p>
+  <img src="https://cdn.simpleicons.org/react/22D3EE" width="18"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="18"/>
+  <img src="https://cdn.simpleicons.org/sqlite/22D3EE" width="18"/>
+  <img src="https://cdn.simpleicons.org/google/A78BFA" width="18"/>
+</p>
 
-`AI` → Gemini · LangChain  
-`MOBILE` → React Native  
-`OFFLINE` → SQLite-first architecture  
-`SECURITY` → Encrypted local storage  
-`VISION` → MediaPipe engagement signals
+Built an adaptive learning experience that generates personalised
+roadmaps while keeping the app fast and usable offline.
+
+**Under the hood**
+
+`Gemini` · `LangChain` · `SQLite` · `MediaPipe` · `React Native`
 
 ---
 
+### More things I'm building
+
+AI agents.  
+Mobile apps.  
+Cloud systems.  
+Random ideas that turn into weekend projects.
+
 <p align="center">
   <a href="https://github.com/suganth07?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-0A101F?style=flat-square&logo=github&logoColor=22D3EE"/>
+    <img src="https://img.shields.io/badge/see_what_I'm_building-0A101F?style=flat-square&logo=github&logoColor=22D3EE"/>
   </a>
 </p>
 
