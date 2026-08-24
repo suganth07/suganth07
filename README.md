@@ -57,76 +57,180 @@
 
 ## Featured Projects
 
-### Raseed
-**AI-Powered Financial Literacy Platform**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>Raseed</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-0A101F?style=flat-square&logo=flutter&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/Firebase-0A101F?style=flat-square&logo=firebase&logoColor=F59E0B">
-  <img src="https://img.shields.io/badge/Google%20Wallet-0A101F?style=flat-square&logo=googlepay&logoColor=22D3EE">
+<strong>AI-Powered Financial Literacy Platform</strong>
 </p>
-
-A mobile-first financial platform focused on making financial information
-more accessible through AI-powered guidance and real-time insights.
-
-**Key Features**
-
-- AI-powered financial guidance and investment insights
-- Secure Firebase authentication and real-time data architecture
-- Google Wallet integration
-- Interactive financial visualisation
-
----
-
-### LegalLens
-**Multimodal AI Legal Assistant**
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-0A101F?style=flat-square&logo=flutter&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/MCP-0A101F?style=flat-square&logoColor=A78BFA">
-  <img src="https://img.shields.io/badge/Gemini-0A101F?style=flat-square&logo=google&logoColor=A78BFA">
-  <img src="https://img.shields.io/badge/Google%20Cloud-0A101F?style=flat-square&logo=googlecloud&logoColor=22D3EE">
+<img src="https://cdn.simpleicons.org/flutter/22D3EE" width="18">
+<img src="https://cdn.simpleicons.org/python/22D3EE" width="18">
+<img src="https://cdn.simpleicons.org/firebase/F59E0B" width="18">
+<img src="https://cdn.simpleicons.org/googlepay/22D3EE" width="18">
 </p>
-
-A multimodal legal intelligence platform designed to analyse documents,
-answer legal queries, and connect information across complex knowledge sources.
-
-**Key Features**
-
-- Voice-to-voice multilingual legal document analysis
-- Google Document AI and Gemini-powered document understanding
-- Knowledge graph and vector-search architecture
-- Cloud Spanner, AlloyDB and Redis/Valkey
-- Encryption, IAM and data-integrity controls
-
----
-
-### SkillSpark
-**Personalised AI Learning Platform**
 
 <p>
-  <img src="https://img.shields.io/badge/React%20Native-0A101F?style=flat-square&logo=react&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/TypeScript-0A101F?style=flat-square&logo=typescript&logoColor=3178C6">
-  <img src="https://img.shields.io/badge/SQLite-0A101F?style=flat-square&logo=sqlite&logoColor=22D3EE">
-  <img src="https://img.shields.io/badge/Gemini-0A101F?style=flat-square&logo=google&logoColor=A78BFA">
-  <img src="https://img.shields.io/badge/LangChain-0A101F?style=flat-square&logoColor=A78BFA">
-  <img src="https://img.shields.io/badge/MediaPipe-0A101F?style=flat-square&logo=google&logoColor=22D3EE">
+A mobile-first financial platform focused on AI-powered
+financial guidance, investment insights, and real-time
+financial visualisation.
 </p>
 
-An adaptive learning platform that generates personalised learning paths
-while maintaining an offline-first mobile experience.
+<table>
+<tr>
+<td><strong>AI</strong></td>
+<td>Financial guidance & insights</td>
+</tr>
+<tr>
+<td><strong>AUTH</strong></td>
+<td>Firebase authentication</td>
+</tr>
+<tr>
+<td><strong>WALLET</strong></td>
+<td>Google Wallet integration</td>
+</tr>
+<tr>
+<td><strong>DATA</strong></td>
+<td>Real-time financial visualisation</td>
+</tr>
+</table>
 
-**Key Features**
+</td>
 
-- AI-generated personalised learning roadmaps
-- Adaptive content generation with Gemini and LangChain
-- Offline-first SQLite architecture
-- Encrypted local data storage
-- MediaPipe Face Landmarker engagement signals
+<td width="50%" valign="top">
 
----
+<h3>LegalLens</h3>
+
+<p>
+<strong>Multimodal AI Legal Assistant</strong>
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/flutter/22D3EE" width="18">
+<img src="https://cdn.simpleicons.org/python/22D3EE" width="18">
+<img src="https://cdn.simpleicons.org/google/A78BFA" width="18">
+<img src="https://cdn.simpleicons.org/googlecloud/22D3EE" width="18">
+</p>
+
+<p>
+A multimodal legal intelligence platform for document
+analysis, voice interaction, knowledge retrieval,
+and secure cloud infrastructure.
+</p>
+
+<table>
+<tr>
+<td><strong>VOICE</strong></td>
+<td>Multilingual legal analysis</td>
+</tr>
+<tr>
+<td><strong>AI</strong></td>
+<td>Document AI + Gemini</td>
+</tr>
+<tr>
+<td><strong>SEARCH</strong></td>
+<td>Knowledge graph + vector search</td>
+</tr>
+<tr>
+<td><strong>CLOUD</strong></td>
+<td>Spanner + AlloyDB + Redis</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>SkillSpark</h3>
+
+<p>
+<strong>Personalised AI Learning Platform</strong>
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/react/22D3EE" width="18">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="18">
+<img src="https://cdn.simpleicons.org/sqlite/22D3EE" width="18">
+<img src="https://cdn.simpleicons.org/google/A78BFA" width="18">
+</p>
+
+<p>
+An adaptive learning platform that generates personalised
+learning paths while maintaining an offline-first
+mobile experience.
+</p>
+
+<table>
+<tr>
+<td><strong>AI</strong></td>
+<td>Gemini + LangChain</td>
+</tr>
+<tr>
+<td><strong>OFFLINE</strong></td>
+<td>SQLite-first architecture</td>
+</tr>
+<tr>
+<td><strong>SECURITY</strong></td>
+<td>Encrypted local storage</td>
+</tr>
+<tr>
+<td><strong>VISION</strong></td>
+<td>MediaPipe engagement signals</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>Current Focus</h3>
+
+<p>
+<strong>Building · Learning · Shipping</strong>
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/googlegemini/A78BFA" width="18">
+<img src="https://cdn.simpleicons.org/googlecloud/22D3EE" width="18">
+<img src="https://cdn.simpleicons.org/flutter/22D3EE" width="18">
+<img src="https://cdn.simpleicons.org/react/22D3EE" width="18">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="18">
+</p>
+
+<table>
+<tr>
+<td><strong>AI</strong></td>
+<td>Agents · Multimodal AI</td>
+</tr>
+<tr>
+<td><strong>MOBILE</strong></td>
+<td>Flutter · React Native</td>
+</tr>
+<tr>
+<td><strong>CLOUD</strong></td>
+<td>Google Cloud · Firebase</td>
+</tr>
+<tr>
+<td><strong>FULLSTACK</strong></td>
+<td>Modern web & API systems</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/suganth07?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE">
+  </a>
+</p>
 
 ### More Projects
 
